@@ -10,4 +10,6 @@ This report details the Azure Monitor agent setup, Grafana installation on an Ub
 
 ## Task 1: Prepare the Ubuntu Server
 
-``` sudo apt-get update && sudo apt-get upgrade -y ```
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
+```
