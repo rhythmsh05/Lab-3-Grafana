@@ -5,3 +5,9 @@
 ### Lab Objective
 
 This report details the Azure Monitor agent setup, Grafana installation on an Ubuntu server, and dashboard development for performance metrics visualization.
+
+###  Steps Covered
+
+## Task 1: Prepare the Ubuntu Server
+
+``` sudo apt-get update && sudo apt-get upgrade -y ```
